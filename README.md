@@ -1,4 +1,4 @@
 # team9
-Team Member : HanByeol, Intan, Mahira
+Team Member : HanByeol, Intan, Mahirah
 
 data science group project
